@@ -1,9 +1,27 @@
-li{
+*{
+    color: white;
+}
+ul li{
     font-family: 'IM Fell English SC', serif;
     font-size: 23px;
 }
-p{
+.all-info{
+    margin-bottom: 300px;
+}
+#info{
     font-family: 'IM Fell English SC', serif;
     font-size: 26px;
     text-align: justify;
+    
 }
+.footer{
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+.creditos{
+    font-family: cursive;   
+    text-decoration: none;
+    font-style: italic;
+    color: lightskyblue;
+}
+
