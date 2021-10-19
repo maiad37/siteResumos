@@ -24,4 +24,9 @@ ul li{
     font-style: italic;
     color: lightskyblue;
 }
-
+.novidades{
+    border-color: white;
+    border-style: solid;
+    width: 80vw;
+    margin-bottom: 300px;
+}
