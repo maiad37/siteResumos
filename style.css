@@ -30,3 +30,33 @@ ul li{
     width: 80vw;
     margin-bottom: 300px;
 }
+
+/* conteudo css*/
+.search-box{
+    max-width: 450px;
+    margin: 100px auto;
+}
+
+.search-box .search{
+    position: relative;
+    background: white;
+    width: 100%;
+    border-radius: 5px;
+}
+.search input{
+    height: 55px;
+    width: 100%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    padding: 0 20px 0 20px;
+    font-size: 18px;
+    color: black;
+}
+.search-icon{
+    line-height: 50px;
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: center;
+}
